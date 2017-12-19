@@ -1,9 +1,8 @@
 # mifeng
-- 主要代码都在码云上，这里的只是部分代码
-
 > 蜜蜂点单后台管理系统
 
 ## Build Setup
+- 主要代码都在码云上，这里的只是部分代码
 
 ``` bash
 # install dependencies
